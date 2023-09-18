@@ -12,7 +12,8 @@
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
 3. ...
 
-## Additional Directions by Bob:
+## Additional Directions:
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavor.
 5. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
+7. Let cool for at least 10 minutes before cutting and enjoying the cake.
