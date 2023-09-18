@@ -45,13 +45,13 @@ branch:
   - IntelliJ: `Git -> branches... -> main -> Checkout`
   - Terminal: `git checkout main`
 Note: everything we've done has been local to our repository and have not pushed anything yet.
-- [ ] We are back on `main`, so we can now do the merge and complete our work!
+- [x] We are back on `main`, so we can now do the merge and complete our work!
   - IntelliJ: `Git -> Merge... -> task_1 -> Merge`
   - Terminal: `git merge task_1`
 
 You should now see the changes you had made are also in the `main` branch.
 
-- [ ] Now, we'll want to clean up since we are done with our `task_1` branch.
+- [x] Now, we'll want to clean up since we are done with our `task_1` branch.
   - IntelliJ: `Git -> branches... -> task_1 -> Delete`
   - Terminal: `git branch -d task_1`
 
